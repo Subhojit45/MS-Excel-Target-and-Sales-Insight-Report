@@ -1,6 +1,6 @@
-##Sales Analytics of AtliQ Hardware##
+## Sales Analytics of AtliQ Hardware ##
 
-###Project Overview###
+### Project Overview ###
 AtliQ Hardware is a multinational company selling hardware products such as mice, printers, monitors, and more. The company's customers fall into two categories: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). AtliQ operates through three main channels:
 
 Retailer: Croma, Amazon
@@ -9,7 +9,7 @@ Direct Channel: AtliQ E-store, AtliQ Exclusive
 
 Distributor: Neptune (for international markets)
 
-###Project Objective###
+### Project Objective ###
 The goal of this report is to analyze AtliQ Hardware's sales performance from 2019 to 2021. The insights will help the company identify growth trends, evaluate market performance, and make data-driven decisions. The analysis is based on AtliQ Hardware's fiscal year (Sep-Aug).
 
 Report Components:
@@ -27,7 +27,7 @@ New Products Launched in 2021
 
 Top 5 Marketplaces
 
-###Methods:###
+### Methods: ###
 ETL (Extract, Transform, Load):
 
 Data was extracted from external sources, transformed into the desired format, and loaded into Excel for further analysis.
@@ -54,7 +54,7 @@ Conditional Formatting:
 
 Applied formatting to highlight key figures.
 
-###Key Insights:###
+### Key Insights: ###
 Top Customers in 2021:
 
 Amazon ($82.1M), AtliQ Exclusive ($61.1M), AtliQ e-Store ($53.0M)
@@ -83,7 +83,7 @@ Top 5 Marketplaces in 2021:
 
 India, USA, South Korea, Canada, and the United Kingdom
 
-###Skills Gained:###
+### Skills Gained: ###
 Understanding the ETL process
 
 Data cleaning and transformation
