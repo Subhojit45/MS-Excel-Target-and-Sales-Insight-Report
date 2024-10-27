@@ -94,8 +94,8 @@ Establishing data model relationships with Power Pivot
 
 Creating Pivot Tables and DAX formulas
 
-###Conclusion###
+### Conclusion ###
 The Sales Report for AtliQ Hardware provides valuable insights into sales performance over the years, identifying trends and patterns across customers and markets. These insights support data-driven strategic decision-making and foster company growth.
 
-###Combined Report###
+### Combined Report ###
 The combined report for AtliQ Hardware's sales analysis is attached to this repository. It includes detailed insights and data visualizations supporting the findings mentioned above.
